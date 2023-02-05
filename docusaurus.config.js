@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Fiatpay 開發者文件',
   tagline: '法幣',
-  url: 'https://fiatpaycom.github.io/developer',
+  url: 'https://fiatpaycom.github.io/',
   baseUrl: '/developer/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
