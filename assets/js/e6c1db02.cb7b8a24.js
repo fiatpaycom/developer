@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiatpaydocs=self.webpackChunkfiatpaydocs||[]).push([[3466],{4475:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/developer/blog/tags/facebook","allTagsPath":"/developer/blog/tags","count":1}')}}]);

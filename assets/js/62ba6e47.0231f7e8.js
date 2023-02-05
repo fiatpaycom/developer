@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfiatpaydocs=self.webpackChunkfiatpaydocs||[]).push([[1407],{7987:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/developer/blog/tags/docusaurus","allTagsPath":"/developer/blog/tags","count":4}')}}]);
